@@ -45,7 +45,7 @@ spiritual, cultural and recreational importance.
 
 ### team contacts
 
-| bibhasingh                              | Elnura                              | Galal                                    | Gopi                                 | Nashmia Burki                         | Valeriya                                 |
-| --------------------------------------- | ----------------------------------- | ---------------------------------------- | ------------------------------------ | ------------------------------------- | ---------------------------------------- |
-| [GitHub](https://github.com/bibhasingh) | [GitHub](https://github.com/Elya88) | [GitHub](https://github.com/galalkoro98) | [GitHub](https://github.com/Gopiben) | [GitHub](https://github.com/nashmiab) | [GitHub](https://github.com/V-Valkiriya) |
-| ![bibhasingh](/images/bibhasingh.png)   | ![Elnura](/images/elnura.png)       | ![Galal](/images/galal.png)              | ![Gopi](/images/gopi.png)            | ![nashmia](/images/nashmia.png)       | ![valeriya](/images/Valeriya.png)        |
+| bibhasingh                              | Elnura                              | Galal                                    | Nashmia Burki                         | Valeriya                                 |
+| --------------------------------------- | ----------------------------------- | ---------------------------------------- | ------------------------------------- | ---------------------------------------- |
+| [GitHub](https://github.com/bibhasingh) | [GitHub](https://github.com/Elya88) | [GitHub](https://github.com/galalkoro98) | [GitHub](https://github.com/nashmiab) | [GitHub](https://github.com/V-Valkiriya) |
+| ![bibhasingh](/images/bibhasingh.png)   | ![Elnura](/images/elnura.png)       | ![Galal](/images/galal.png)              | ![nashmia](/images/nashmia.png)       | ![valeriya](/images/Valeriya.png)        |
