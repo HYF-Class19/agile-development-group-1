@@ -37,18 +37,18 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day          |     Monday     |    Tuesday     |   Wednesday    |    Thursday    | Friday         |
-| ------------ | :------------: | :------------: | :------------: | :------------: | :------------- |
-| _Galal_      | 18:00 to 22:00 | 18:00 to 20:00 | 10:00 to 21:00 | 10:00 to 22:00 | 15:00 to 18:00 |
-| _Elnura_     | 18:00 to 22:00 | 10:00 to 22:00 | 19:00 to 22:00 | 16:00 to 19:00 | 14:00 to 22:00 |
-| _Valeriya_   | 18:00 to 22:00 | 14:00 to 22:00 | 16:00 to 22:00 | 14:00 to 17:00 | 14:00 to 22:00 |
-| _Nashmia_    |                |                |                |                |                |
-| _Bibhasingh_ |                |                |                |                |                |
+| Day        |     Monday     |    Tuesday     |   Wednesday    |    Thursday    | Friday         |
+| ---------- | :------------: | :------------: | :------------: | :------------: | :------------- |
+| _Galal_    | 18:00 to 22:00 | 18:00 to 20:00 | 10:00 to 21:00 | 10:00 to 22:00 | 15:00 to 18:00 |
+| _Elnura_   | 18:00 to 22:00 | 10:00 to 22:00 | 19:00 to 22:00 | 16:00 to 19:00 | 14:00 to 22:00 |
+| _Valeriya_ | 18:00 to 22:00 | 14:00 to 22:00 | 16:00 to 22:00 | 14:00 to 17:00 | 14:00 to 22:00 |
+| _Nashmia_  |                | 14:00 to 22:00 | 14:00 to 22:00 | 14:00 to 22:00 | 14:00 to 22:00 |
+| _Bibha_    |                | 10:00 to 20:00 | 10:00 to 20:00 | 10:00 to 20:00 | 10:00 to 20:00 |
 
 ### How many hours everyone has per day
 
 - Galal Min 8 hours
 - Elnura avrage between 4 & 8 hours
 - Valeriya avrage between 4 & 8 hours
-- Nashmia
-- Bibhasingh
+- Nashmia avrage 4 to 8 hours
+- Bibhasingh 4 to 8 hours
