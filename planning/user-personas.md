@@ -12,4 +12,6 @@ interested in an environment.
 
 ### Action
 
-Mike Angelo he is entrepreneur and he is interesting in agriculture to invest
+Mike Angelo he is entrepreneur and he is interesting in agriculture to invest.
+
+![Persona](/images/userpersona2.png)
