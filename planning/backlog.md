@@ -20,7 +20,7 @@ complete.
 
   [ ] There is a section under the navbar describing the project's goal.
 
-  - **Student**: I want to be able to get information to learn about trees.
+- **Student**: I want to be able to get information to learn about trees.
 
   [ ] There is a main text in the page with information and links about trees.
 
@@ -35,12 +35,12 @@ complete.
 
 - **Student**: As a student I want to be able to easily navigate the website.
 
-[] There is a navbar at the top of the page, that links to different sections.
+  [] There is a navbar at the top of the page, that links to different sections.
 
 - **Entrepreneur**: I want to be able to contact the team to get more
   information about the project.
 
-[] There is a footer with contact links.
+[ ] There is a footer with contact links.
 
 ## Could-Haves
 
