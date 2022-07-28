@@ -1,5 +1,7 @@
 # Backlog
 
+## Must Haves
+
 In Agile development, a product backlog is a prioritized list of deliverables,
 (such as new features) that should be implemented as part of a project or
 product development. It's a decision-making artifact that helps you estimate,
@@ -8,7 +10,15 @@ complete.
 
 ![agile](../images/agile.jpg)
 
-## Must-Haves
+- **Home Page**
+
+  - As a Student I want to get all the information related to tree
+    - [ ] _there should title at the top of the web page_
+    - [ ] _there should be a link from where I can explore more_
+  - As an Entrepreneur I want to find info how can contribute towards
+    environment
+
+    - [ ] _there should be a section describing importance of tree for business_
 
 > These are necessary for basic usability:
 
@@ -29,7 +39,19 @@ complete.
 - [ ] There is a section with links available to gather more information about
       trees.
 
-## Should-Haves
+  - As an Employee I would like to plant tree
+    - [ ] _there is a section describing plantation_
+  - As a user I can learn even more about trees
+    - [ ] _there is an aside with links for further reading_
+
+## Should Haves
+
+- **Home Page**
+  - As a student I can navigate the web page from a navbar
+    - [ ] _there is a navbar at the top of the page with links to the different
+          sections_
+  - As a user I can contact us to learn more about our project
+    - [ ] _there is a footer with contact info_
 
 > This will complete the user experience, but are not necessary:
 
@@ -43,7 +65,11 @@ complete.
 
 - [ ] There is a footer with contact links.
 
-## Could-Haves
+## Could Haves
+
+- **Home Page**
+  - as a user I can find link to contribute towards society
+    - [ ] _there should be some info related to bank transfer_
 
 > This would be really cool ... if there's time:
 
