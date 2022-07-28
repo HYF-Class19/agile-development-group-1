@@ -1,6 +1,5 @@
 # Backlog
 
-
 ## Must Haves
 
 In Agile development, a product backlog is a prioritized list of deliverables,
@@ -40,12 +39,10 @@ complete.
 - [ ] There is a section with links available to gather more information about
       trees.
 
-
   - As an Employee I would like to plant tree
     - [ ] _there is a section describing plantation_
   - As a user I can learn even more about trees
     - [ ] _there is an aside with links for further reading_
-
 
 ## Should Haves
 
@@ -68,9 +65,7 @@ complete.
 
 - [ ] There is a footer with contact links.
 
-
 ## Could Haves
-
 
 - **Home Page**
   - as a user I can find link to contribute towards society
@@ -89,4 +84,3 @@ complete.
 ## Story Sequencing
 
 ![users-story-graph](../images/backlog.jpg)
-
