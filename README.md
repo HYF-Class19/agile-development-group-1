@@ -36,12 +36,13 @@ spiritual, cultural and recreational importance.
 - Add md files in planning folder directory
 - start editing md files:
   - [README](/planning/README.md)
-  - [backlog](/planning/backlog.md)
-  - [communication](/planning/communication-plan.md)
   - [Constraints](/planning/constraints.md)
+  - [communication](/planning/communication-plan.md)
+  - [user persona](/planning/user-personas.md)
+  - [backlog](/planning/backlog.md)
+  - [design](/planning/design.md)
   - [development strategy](/planning/development-strategy.md)
   - [retrospective](/planning/retrospective.md)
-  - [user persona](/planning/user-personas.md)
 
 ### team contacts
 
