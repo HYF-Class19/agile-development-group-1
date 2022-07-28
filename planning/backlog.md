@@ -53,3 +53,7 @@ complete.
 - **Entrepreneur**: I want to have even more information about this project.
 
 [] There is more in depth content which gives information about the project.
+
+## Story Sequencing
+
+![users-story-graph](../images/backlog.jpg)
