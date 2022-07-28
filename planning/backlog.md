@@ -1,55 +1,57 @@
 # Backlog
 
-A collection of user stories for your project. Stories inside of each priority
-level are not necessarily in order. You and your team will decide when to
-develop each story by drawing out your [Story Sequencing](#story-sequencing).
+In Agile development, a product backlog is a prioritized list of deliverables,
+(such as new features) that should be implemented as part of a project
+or product development.
+It's a decision-making artifact that helps you estimate, refine,
+and prioritize everything you might sometime in the future want to complete.
+
+![agile](../images/agile.jpg)
 
 ## Must-Haves
 
-are necessary for basic usability:
+> These are necessary for basic usability:
 
-- **user story name**: As a student I want to so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- ...
+- **Employee**: I want to clearly  see what the site is about.
+
+  [] there is a clear title at the top of the page.
+
+- **Student**: I want to be able to read an introduction about this project.
+  
+  [] There is a section under the navbar describing the project's goal.
+
+  - **Student**: I want to be able to get information to learn about trees.
+  
+  [] There is a main text in the page with information and links about trees.
+
+- **Entrepreneur**: I can gather extra information about trees.
+  
+  [] There is a section with links available to gather more information about trees.
 
 ## Should-Haves
 
-will complete the user experience, but are not necessary:
+> This will complete the user experience, but are not necessary:
 
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- ...
+- **Student**: As a student I want to be able to easily navigate the website.
+  
+ [] There is a navbar at the top of the page, that links to different sections.
+
+- **Entrepreneur**: I want to be able to contact the team to get more information
+ about the project.
+  
+[] There is a footer with contact links.
 
 ## Could-Haves
 
-would be really cool ... if there's time:
+> This would be really cool ... if there's time:
 
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I
-  achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]
-  - ...
-- ...
+- **Student**: I would like to see more diagrams about trees.
+
+  [] There are more useful images about trees
+
+- **Entrepreneur**: I want to have even more information about this project.
+
+[] There is more in depth content which gives information about the project.
 
 ---
 
