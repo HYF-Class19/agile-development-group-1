@@ -2,8 +2,6 @@
 
 ## Must Haves
 
-
-
 - **Home Page**
   - As a Student I want to get all the information related to tree
     - [ ] _there should  title at the top of the web page_
@@ -18,7 +16,6 @@
 
 ## Should Haves
 
-
 - **Home Page**
   - As a student I can navigate the web page from a navbar
     - [ ] _there is a navbar at the top of the page with links to the different
@@ -27,8 +24,6 @@
     - [ ] _there is a footer with contact info_
 
 ## Could Haves
-
-
 
 - **Home Page**
   - as a user I can find link to contribute towards society
