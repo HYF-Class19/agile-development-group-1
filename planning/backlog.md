@@ -49,7 +49,7 @@ complete.
 
 - **Student**: I would like to see more diagrams about trees.
 
--[ ] There are more useful images about trees
+- [ ] There are more useful images about trees
 
 - **Entrepreneur**: I want to have even more information about this project.
 
