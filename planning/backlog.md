@@ -3,11 +3,14 @@
 ## Must Haves
 
 - **Home Page**
+
   - As a Student I want to get all the information related to tree
-    - [ ] _there should  title at the top of the web page_
+    - [ ] _there should title at the top of the web page_
     - [ ] _there should be a link from where I can explore more_
-  - As an Entrepreneur I want to find info how can contribute towards environment
-    - [ ] _there should be a section  describing importance of tree for  business_
+  - As an Entrepreneur I want to find info how can contribute towards
+    environment
+
+    - [ ] _there should be a section describing importance of tree for business_
 
   - As an Employee I would like to plant tree
     - [ ] _there is a section describing plantation_
