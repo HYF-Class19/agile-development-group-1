@@ -1,30 +1,35 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
+## Must Haves
 
-## Must-Haves
 
-> these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- **Home Page**
+  - As a Student I want to get all the information related to tree
+    - [ ] _there should  title at the top of the web page_
+    - [ ] _there should be a link from where I can explore more_
+  - As an Entrepreneur I want to find info how can contribute towards environment
+    - [ ] _there should be a section  describing importance of tree for  business_
 
-## Should-Haves
+  - As an Employee I would like to plant tree
+    - [ ] _there is a section describing plantation_
+  - As a user I can learn even more about trees
+    - [ ] _there is an aside with links for further reading_
 
-> these will complete the user experience, but are not necessary
+## Should Haves
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
 
-## Could-Haves
+- **Home Page**
+  - As a student I can navigate the web page from a navbar
+    - [ ] _there is a navbar at the top of the page with links to the different
+          sections_
+  - As a user I can contact us to learn more about our project
+    - [ ] _there is a footer with contact info_
 
-> would be really cool ... if there's time
+## Could Haves
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+
+
+- **Home Page**
+  - as a user I can find link to contribute towards society
+    - [ ] _there should be some info related to bank transfer_
