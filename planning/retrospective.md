@@ -16,7 +16,7 @@ and we will maintain this team work until the end of the project
 
 - continue communicating through slack & daily zoom meeting
 - Sharing screen on each other to solve problems
-  
+
 ## Start Doing
 
 - Start list ideas that the team should be doing but are not doing
