@@ -1,1 +1,5 @@
 @import url("./something.css");
+
+.main {
+  margin-top: 250px;
+}
