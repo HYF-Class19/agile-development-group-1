@@ -1,5 +1,17 @@
 @import url("./something.css");
 
+<<<<<<< HEAD
 .main {
   margin-top: 250px;
+=======
+/* footer assign Valeriya */
+.foot {
+  border-style: solid none none none;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom: 2%;
+>>>>>>> master
 }
