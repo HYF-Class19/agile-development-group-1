@@ -1,8 +1,6 @@
 {
   "language": "en",
-  "words": [
-    "Valeriya"
-  ],
+  "words": ["Valeriya"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
