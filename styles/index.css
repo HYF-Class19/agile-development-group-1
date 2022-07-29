@@ -1,5 +1,6 @@
 @import url("./something.css");
 
+
 /* nav bar assign to Galal */
 
 .nav-bar {
@@ -22,6 +23,13 @@ nav {
 
 .nav-a {
   text-decoration: none;
+}
+
+/* main  assign Bibha */
+
+.main{
+  margin-top: 250px;
+
 }
 
 /* footer assign Valeriya */
