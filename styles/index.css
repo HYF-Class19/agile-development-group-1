@@ -1,5 +1,6 @@
 @import url("./something.css");
 
+
 /* header assign to Elnura */
 
 .header-img {
@@ -9,7 +10,7 @@
   width: 50px;
 }
 
-#header{
+#header {
   padding: 60px;
   color: white;
   font-size: 10px;
@@ -22,7 +23,48 @@
   display: flex;
 }
 
-.tree{
+.tree {
   padding-top: 2em;
 }
 
+
+/* nav bar assign to Galal */
+
+.nav-bar {
+  border-style: none none solid none;
+  border-color: blue blue blue blue;
+}
+
+nav {
+  display: block;
+}
+
+.items {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+  font-size: 1.5em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.nav-a {
+  text-decoration: none;
+}
+
+/* main  assign Bibha */
+
+.main {
+  margin-top: 250px;
+}
+
+/* footer assign Valeriya */
+.foot {
+  border-style: solid none none none;
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
