@@ -1,1 +1,6 @@
 @import url("./something.css");
+/* start list style assignee: Nashmia*/
+.list {
+  list-style-type: square;
+}
+/* End list style assignee: Nashmia*/
