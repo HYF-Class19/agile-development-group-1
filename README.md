@@ -6,7 +6,7 @@ definition of what a tree is,
 
 ## What are 5 Importance of trees
 
-![importance of trees](https://assignmentpoint.com/wp-content/uploads/2019/06/Importance-of-Trees.jpg)
+![screen](/images/screenshoot.png)
 
 They give us clean water to drink, air to breathe, shade and food to humans,
 animals and plants. They provide habitats for numerous species of fauna and
